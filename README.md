@@ -50,13 +50,13 @@ A modern freelancing platform connecting clients with skilled professionals, bui
 ### Backend (Django)
 - Django REST Framework
 - PostgreSQL
-- Celery (async tasks)
+- Celery (async tasks)/,djangoq
 - Redis (caching)
 - WebSockets (Django Channels)
 - JWT Authentication
 
 ### Frontend (React-Vite/Next.js)
-- TypeScript
+- TypeScript/JavaScript 
 - Tailwind CSS
 - Redux Toolkit
 - React Query
